@@ -1,0 +1,66 @@
+BasicMeleeDeveloper {
+    template melee_attack
+
+    graphics {
+        animation Default
+
+        damage_threshold_altanimations {
+            heavyMelee 10
+            heaviestMelee 20
+        }
+    }
+
+    meta {
+        name "ABILITY_MELEEATTACK_NAME"
+        desc "ABILITY_MELEEATTACK_DESC"
+        animate_name false
+    }
+}
+
+STARTER_PLACEHOLDER_Developer {
+    template placeholder
+
+    meta {
+        ability_icon STARTER_PLACEHOLDER_Fighter
+        name "ABILITY_STARTER_PLACEHOLDER_NAME"
+        desc "°,- °"
+        class Developer
+    }
+}
+
+BasicMelee_Developer {
+    variant_of BasicMelee_Fighter
+
+    meta {
+        ability_icon BasicMelee
+        class Developer
+    }
+}
+
+HelloWorld {
+    template melee_attack
+
+    meta {
+        name "ABILITY_DEVELOPER_HELLO_WORLD_NAME"
+        desc "ABILITY_DEVELOPER_HELLO_WORLD_DESC"
+        ability_icon Poke
+        class Developer
+        animate_name false
+    }
+
+    cost {
+        mana 3
+    }
+
+    target {
+        max_aoe 1
+        min_range 1
+        max_range 3
+        restrictions must_have_line_of_sight
+    }
+
+    damage_instance {
+        damage 3
+        type melee
+    }
+}

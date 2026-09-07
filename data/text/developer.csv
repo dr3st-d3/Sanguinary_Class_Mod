@@ -1,0 +1,7 @@
+KEY,en,notes,sp,fr,de,ge,it,pt-br,ru,ko,ja,zh
+DEVELOPER_NAME,Developer,,,,,,,Desenvolvedor,,,,
+DEVELOPER_DESC,A class that fights with code.,,,,,,,Uma classe que luta usando código.,,,,
+ABILITY_DEVELOPER_HELLO_WORLD_NAME,Hello World,,,,,,,Olá Mundo,,,,
+ABILITY_DEVELOPER_HELLO_WORLD_DESC,Executes the first program.,,,,,,,Executa o primeiro programa.,,,,
+PASSIVE_DEVELOPER_CODE_REVIEW_NAME,Code Review,,,,,,,Revisão de Código,,,,
+PASSIVE_DEVELOPER_CODE_REVIEW_DESC,Reviews its own code before acting.,,,,,,,Revisa o próprio código antes de agir.,,,,

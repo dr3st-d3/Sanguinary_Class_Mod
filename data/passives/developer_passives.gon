@@ -1,0 +1,20 @@
+STARTER_PLACEHOLDER_Developer {
+    icon STARTER_PLACEHOLDER_Fighter
+    name "PASSIVE_STARTER_PLACEHOLDER_NAME"
+    desc "o,_ o"
+    class Developer
+}
+
+CodeReview {
+    name "PASSIVE_DEVELOPER_CODE_REVIEW_NAME"
+    desc "PASSIVE_DEVELOPER_CODE_REVIEW_DESC"
+    class Developer
+
+    1 {
+        icon GoldenClaws
+
+        stats {
+            int 2
+        }
+    }
+}

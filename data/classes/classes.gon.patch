@@ -1,0 +1,52 @@
+Developer.merge {
+    meta {
+        name "DEVELOPER_NAME"
+        description "DEVELOPER_DESC"
+    }
+
+    innate_passives {
+        AddLevelUpRerolls 99
+    }
+
+    graphics {
+        palette 19
+
+        alt_animations [
+            [idle, FighterIdle]
+            [ClassToNeutral, FighterToNeutral]
+            [ClassFromNeutral, FighterFromNeutral]
+            [StartTurn, FighterStartTurn]
+            [Victory, fighterVictory]
+        ]
+
+        default_face happy
+        portrait_face fighter_portrait
+    }
+
+    attack_pool [
+        BasicMelee_Developer
+    ]
+
+    ability_pool [
+        HelloWorld
+    ]
+
+    starter_abilities [
+        HelloWorld
+    ]
+
+    ability_groups {
+        attack [ HelloWorld ]
+    }
+
+    passive_pool [
+        CodeReview
+    ]
+
+    stat_mods {
+        int 3
+        spd 1
+    }
+
+    levelup_stats [int spd con]
+}

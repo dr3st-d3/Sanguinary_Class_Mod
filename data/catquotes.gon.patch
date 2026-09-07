@@ -1,0 +1,29 @@
+vs_boss_quotes {
+    Developer.merge [
+        "Vou definir um parâmetro para derrotar esse chefe!"
+        "Executando código de combate..."
+        "Erro 404: fraqueza não encontrada."
+    ]
+}
+
+embark_quotes {
+    Developer.merge [
+        "Compilando..."
+        "Pronto para executar!"
+    ]
+}
+
+return_early_quotes {
+    Developer.merge [
+        "Desvio de rota: retornando a base."
+        "Execução interrompida."
+    ]
+}
+
+return_quotes {
+    Developer.merge [
+        "Execução concluída."
+        "Finalmente, coffe break!"
+        "Voltando para a base."
+    ]
+}

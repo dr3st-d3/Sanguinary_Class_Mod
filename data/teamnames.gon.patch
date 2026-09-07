@@ -1,0 +1,13 @@
+Developer.merge {
+    adjectives [
+        "Compilado"
+        "Programado"
+        "Executável"
+    ]
+
+    nouns [
+    "Debugger"
+    "Programador"
+    "Otimizador"
+    ]
+}
