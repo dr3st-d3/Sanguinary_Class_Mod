@@ -10,7 +10,7 @@
 - 🏷️ Custom class collar (Not fully implemented)
 - 🩸 Basic attacks inflict **Bleed**
 - ⚔️ Blood-focused abilities and passives
-- 🇧🇷 Brazilian Portuguese localization
+- 🇧🇷  Brazilian Portuguese localization (Not fully implemented)
 
 ## Gameplay
 
