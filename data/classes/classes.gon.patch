@@ -29,10 +29,12 @@ Sanguinary.merge {
 
     ability_pool [
         BloodyWave
+        BloodFeast
     ]
 
     starter_abilities [
         BloodyWave
+        BloodFeast
     ]
 
     ability_groups {

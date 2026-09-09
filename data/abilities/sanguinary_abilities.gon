@@ -23,7 +23,7 @@ STARTER_PLACEHOLDER_Sanguinary {
     meta {
         ability_icon STARTER_PLACEHOLDER_Fighter
         name "ABILITY_STARTER_PLACEHOLDER_NAME"
-        desc "°,- °"
+        desc "???"
         class Sanguinary
     }
 }
@@ -49,6 +49,39 @@ BloodyWave {
     meta {
         name "ABILITY_SANGUINARY_BLOODY_WAVE_NAME"
         desc "ABILITY_SANGUINARY_BLOODY_WAVE_DESC"
+        ability_icon BloodGeyser
         class Sanguinary
+    }
+        
+    graphics {
+        animation selfHarm
+        particle bloodywave
+    }
+}
+
+BloodFeast {
+    template self_buff
+
+    meta {
+        name "ABILITY_SANGUINARY_BLOOD_FEAST_NAME"
+        desc "ABILITY_SANGUINARY_BLOOD_FEAST_DESC"
+        ability_icon Huddle
+        class Sanguinary
+        type_icon "misc"
+    }
+
+    graphics {
+        animation angry
+    }
+
+    cost {
+        infcantrip true
+        mana 3
+    }
+
+    damage_instance {
+        effects {
+            Bloodzerked 1
+        }
     }
 }
