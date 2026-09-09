@@ -32,35 +32,23 @@ BasicMelee_Sanguinary {
     variant_of BasicMelee_Fighter
 
     meta {
-        ability_icon BasicMelee
+        ability_icon Lacerate
         class Sanguinary
+    }
+
+    damage_instance {
+        effects {
+            Bleed 1
+        }
     }
 }
 
 BloodyWave {
-    template melee_attack
+    variant_of BloodGeyser
 
     meta {
         name "ABILITY_SANGUINARY_BLOODY_WAVE_NAME"
         desc "ABILITY_SANGUINARY_BLOODY_WAVE_DESC"
-        ability_icon Poke
         class Sanguinary
-        animate_name false
-    }
-
-    cost {
-        mana 3
-    }
-
-    target {
-        max_aoe 1
-        min_range 1
-        max_range 3
-        restrictions must_have_line_of_sight
-    }
-
-    damage_instance {
-        damage 3
-        type melee
     }
 }
