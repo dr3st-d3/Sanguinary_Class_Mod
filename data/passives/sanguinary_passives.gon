@@ -1,0 +1,20 @@
+STARTER_PLACEHOLDER_Sanguinary {
+    icon STARTER_PLACEHOLDER_Fighter
+    name "PASSIVE_STARTER_PLACEHOLDER_NAME"
+    desc "o,_ o"
+    class Sanguinary
+}
+
+BloodFlow {
+    name "PASSIVE_SANGUINARY_BLOOD_FLOW_NAME"
+    desc "PASSIVE_SANGUINARY_BLOOD_FLOW_DESC"
+    class Sanguinary
+
+    1 {
+        icon HotBlooded
+
+        stats {
+            spd 2
+        }
+    }
+}

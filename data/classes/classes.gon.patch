@@ -1,7 +1,7 @@
-Developer.merge {
+Sanguinary.merge {
     meta {
-        name "DEVELOPER_NAME"
-        description "DEVELOPER_DESC"
+        name "SANGUINARY_NAME"
+        description "SANGUINARY_DESC"
     }
 
     innate_passives {
@@ -9,7 +9,7 @@ Developer.merge {
     }
 
     graphics {
-        palette 19
+        palette 64
 
         alt_animations [
             [idle, FighterIdle]
@@ -24,29 +24,32 @@ Developer.merge {
     }
 
     attack_pool [
-        BasicMelee_Developer
+        BasicMelee_Sanguinary
     ]
 
     ability_pool [
-        HelloWorld
+        BloodyWave
     ]
 
     starter_abilities [
-        HelloWorld
+        BloodyWave
     ]
 
     ability_groups {
-        attack [ HelloWorld ]
+        attack [ BloodyWave ]
     }
 
     passive_pool [
-        CodeReview
+        BloodFlow
     ]
 
     stat_mods {
-        int 3
-        spd 1
+        cha 3
+        con 2
+        dex 1
+        str -2
+        int -2
     }
 
-    levelup_stats [int spd con]
+    levelup_stats [con cha dex]
 }

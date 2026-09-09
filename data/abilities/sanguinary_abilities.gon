@@ -1,4 +1,4 @@
-BasicMeleeDeveloper {
+BasicMeleeSanguinary {
     template melee_attack
 
     graphics {
@@ -17,34 +17,34 @@ BasicMeleeDeveloper {
     }
 }
 
-STARTER_PLACEHOLDER_Developer {
+STARTER_PLACEHOLDER_Sanguinary {
     template placeholder
 
     meta {
         ability_icon STARTER_PLACEHOLDER_Fighter
         name "ABILITY_STARTER_PLACEHOLDER_NAME"
         desc "°,- °"
-        class Developer
+        class Sanguinary
     }
 }
 
-BasicMelee_Developer {
+BasicMelee_Sanguinary {
     variant_of BasicMelee_Fighter
 
     meta {
         ability_icon BasicMelee
-        class Developer
+        class Sanguinary
     }
 }
 
-HelloWorld {
+BloodyWave {
     template melee_attack
 
     meta {
-        name "ABILITY_DEVELOPER_HELLO_WORLD_NAME"
-        desc "ABILITY_DEVELOPER_HELLO_WORLD_DESC"
+        name "ABILITY_SANGUINARY_BLOODY_WAVE_NAME"
+        desc "ABILITY_SANGUINARY_BLOODY_WAVE_DESC"
         ability_icon Poke
-        class Developer
+        class Sanguinary
         animate_name false
     }
 

@@ -1,0 +1,7 @@
+KEY,en,notes,sp,fr,de,ge,it,pt-br,ru,ko,ja,zh
+SANGUINARY_NAME,Sanguinary,,,,,,,Sanguinário,,,,
+SANGUINARY_DESC,A blood-bending class that sacrifices its own health to fuel powerful abilities.,,,,,,,Uma classe que manipula sangue e sacrifica a própria vida para alimentar habilidades poderosas.,,,,
+ABILITY_SANGUINARY_BLOODY_WAVE_NAME,Bloody Wave,,,,,,,Onda Sangrenta,,,,
+ABILITY_SANGUINARY_BLOODY_WAVE_DESC,Take damage equal to half of your max HP then deal that much damage and inflict Fear 2 on another unit.,,,,,,,Sofra dano igual à metade da sua Vida máxima depois cause essa quantidade de dano e aplique Medo 2 a outra unidade.,,,,
+PASSIVE_SANGUINARY_BLOOD_FLOW_NAME,Blood Flow,,,,,,,Fluxo de Sangue,,,,
+PASSIVE_SANGUINARY_BLOOD_FLOW_DESC,Controls the flow of blood constantly making your speed malleable.,,,,,,,Controla o fluxo de sangue constantemente deixando sua velocidade maleável.,,,,,

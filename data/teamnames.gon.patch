@@ -1,13 +1,13 @@
-Developer.merge {
+Sanguinary.merge {
     adjectives [
-        "Compilado"
-        "Programado"
-        "Executável"
+        "Sangrento"
+        "Carmesim"
+        "Hemático"
     ]
 
     nouns [
-    "Debugger"
-    "Programador"
-    "Otimizador"
+        "Coágulo"
+        "Hemomante"
+        "Sanguinário"
     ]
 }

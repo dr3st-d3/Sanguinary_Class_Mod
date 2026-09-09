@@ -1,29 +1,29 @@
 vs_boss_quotes {
-    Developer.merge [
-        "Vou definir um parâmetro para derrotar esse chefe!"
-        "Executando código de combate..."
-        "Erro 404: fraqueza não encontrada."
+    Sanguinary.merge [
+        "Você sangra? Vai sangrar!"
+        "Farei uma sangria para remover nossas fraquezas..."
+        "Prepare-se para nadar em sangue."
     ]
 }
 
 embark_quotes {
-    Developer.merge [
-        "Compilando..."
-        "Pronto para executar!"
+    Sanguinary.merge [
+        "Mais sangue para manipular."
+        "Pronto para partir!"
     ]
 }
 
 return_early_quotes {
-    Developer.merge [
-        "Desvio de rota: retornando a base."
-        "Execução interrompida."
+    Sanguinary.merge [
+        "Mal consegui manipular o sangue deles."
+        "Mais cedo, porém vivo."
     ]
 }
 
 return_quotes {
-    Developer.merge [
-        "Execução concluída."
-        "Finalmente, coffe break!"
-        "Voltando para a base."
+    Sanguinary.merge [
+        "Espero não precisar de uma Hemodiálise depois de hoje."
+        "Vou me aposentar e vou curar o sangue de quem merece."
+        "Voltando para casa, com muito sangue nas mãos."
     ]
 }
