@@ -30,12 +30,11 @@ Sanguinary is currently under development. Abilities, balance, visuals, and othe
 
 ## Workstation Tools:
 
-<div style="display: inline_block"></br>
-  <img align="center" alt="VSCODE" src="https://skillicons.dev/icons?i=vscode">
-  <img align="center" alt="PHOTOSHOP" src="https://skillicons.dev/icons?i=ps">
-  <img align="center" alt="ANIMATE" src="https://skillicons.dev/icons?i=an">
-  
-</div>
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,photoshop,animate,git" />
+  </a>
+</p>
 
 ## Credits
 
