@@ -1,5 +1,7 @@
 # 🩸 Sanguinary Class
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/></br>
+
 **Sanguinary** is a custom class mod for **Mewgenics**, focused on blood manipulation, self-damage, Bleed, and recovering health through aggressive play.
 
 > Sacrifice your own blood. Spill theirs. Take it back.
@@ -31,3 +33,7 @@ Sanguinary is currently under development. Abilities, balance, visuals, and othe
 Created by **dr3st-d3**.
 
 Mewgenics and its original assets belong to their respective creators.
+
+##
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4d03f&height=120&section=footer"/>
