@@ -28,19 +28,20 @@ Managing your own health is a core part of playing the class.
 
 Sanguinary is currently under development. Abilities, balance, visuals, and other features may change in future versions.
 
-## Workstation Tools:
+## Credits
+
+Created by **dr3st-d3**.
+
+Mewgenics and its original assets belong to their respective creators.
+
+
+## Workstation Tools
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,photoshop,animate,git" />
   </a>
 </p>
-
-## Credits
-
-Created by **dr3st-d3**.
-
-Mewgenics and its original assets belong to their respective creators.
 
 ##
 
