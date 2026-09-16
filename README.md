@@ -28,6 +28,15 @@ Managing your own health is a core part of playing the class.
 
 Sanguinary is currently under development. Abilities, balance, visuals, and other features may change in future versions.
 
+## Workstation Tools:
+
+<div style="display: inline_block"></br>
+  <img align="center" alt="VSCODE" src="https://skillicons.dev/icons?i=vscode">
+  <img align="center" alt="PHOTOSHOP" src="https://skillicons.dev/icons?i=ps">
+  <img align="center" alt="ANIMATE" src="https://skillicons.dev/icons?i=an">
+  
+</div>
+
 ## Credits
 
 Created by **dr3st-d3**.
